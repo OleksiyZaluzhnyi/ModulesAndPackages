@@ -63,12 +63,12 @@ N    Language        ISO-639 code    Text
 61   Konkani         gom             काम काम करपाक लागलां
 62   Korean          ko              일이 일하고 있어요
 63   Krio            kri             Di wok de wok
-64   Kurdish (kurmanji) ku              Kar kar dike
+64   Kurdish (kurmanji) ku              Kar dixebite
 65   Kurdish (sorani) ckb             کارەکە کاردەکات
 66   Kyrgyz          ky              Жумуш иштеп жатат
 67   Lao             lo              ວຽກແມ່ນເຮັດວຽກ
 68   Latin           la              Officium laborat
-69   Latvian         lv              Darbs strādā
+69   Latvian         lv              Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 70   Lingala         ln              Mosala ezali kosala
 71   Lithuanian      lt              Darbas veikia
 72   Luganda         lg              Omulimu gukola
