@@ -1,0 +1,9 @@
+{
+    "filename": "Steve_Jobs.txt",
+    "target_lang": "hi",
+    "module": "mod3",
+    "output": "screen",
+    "max_chars": 200,
+    "max_words": 50,
+    "max_sentences": 5
+}

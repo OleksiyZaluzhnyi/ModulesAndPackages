@@ -1,0 +1,4 @@
+Zaluzhnyi/
+__pycache__/
+*.pyc
+.env

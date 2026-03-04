@@ -1,0 +1,136 @@
+N    Language        ISO-639 code    Text
+-----------------------------------------
+1    Afrikaans       af              Die werk werk
+2    Albanian        sq              Puna po funksionon
+3    Amharic         am              ስራው እየሰራ ነው።
+4    Arabic          ar              الوظيفة تعمل
+5    Armenian        hy              Աշխատանքն աշխատում է
+6    Assamese        as              চাকৰিটোৱে কাম কৰি আছে
+7    Aymara          ay              Uka irnaqawix irnaqaskiwa
+8    Azerbaijani     az              İş işləyir
+9    Bambara         bm              Baara bɛ ka baara kɛ
+10   Basque          eu              Lana lanean ari da
+11   Belarusian      be              Праца працуе
+12   Bengali         bn              চাকরী কাজ করছে
+13   Bhojpuri        bho             काम हो रहल बा
+14   Bosnian         bs              Posao radi
+15   Bulgarian       bg              Работата върви
+16   Catalan         ca              La feina està funcionant
+17   Cebuano         ceb             Ang trabaho nagtrabaho
+18   Chichewa        ny              Ntchito ikugwira ntchito
+19   Chinese (simplified) zh-CN           工作正在进行中
+20   Chinese (traditional) zh-TW           工作正在進行中
+21   Corsican        co              U travagliu hè travagliatu
+22   Croatian        hr              Posao radi
+23   Czech           cs              Práce funguje
+24   Danish          da              Jobbet virker
+25   Dhivehi         dv              ވަޒީފާ އެދަނީ މަސައްކަތް ކުރަމުންނެވެ
+26   Dogri           doi             नौकरी चल रही है
+27   Dutch           nl              De baan werkt
+28   English         en              The job is working
+29   Esperanto       eo              La laboro funkcias
+30   Estonian        et              Töö käib
+31   Ewe             ee              Dɔa le dɔ wɔm
+32   Filipino        tl              Gumagana ang trabaho
+33   Finnish         fi              Työ toimii
+34   French          fr              Le travail fonctionne
+35   Frisian         fy              De baan wurket
+36   Galician        gl              O traballo está funcionando
+37   Georgian        ka              სამუშაო მუშაობს
+38   German          de              Der Job funktioniert
+39   Greek           el              Η δουλειά δουλεύει
+40   Guarani         gn              Pe tembiapo omba’apo hína
+41   Gujarati        gu              નોકરી કામ કરી રહી છે
+42   Haitian creole  ht              Travay la ap travay
+43   Hausa           ha              Aikin yana aiki
+44   Hawaiian        haw             Ke hana nei ka hana
+45   Hebrew          iw              העבודה עובדת
+46   Hindi           hi              नौकरी चल रही है
+47   Hmong           hmn             Txoj haujlwm ua haujlwm
+48   Hungarian       hu              A munka működik
+49   Icelandic       is              Starfið er að vinna
+50   Igbo            ig              Ọrụ na-arụ ọrụ
+51   Ilocano         ilo             Ti trabaho ket agtrabaho
+52   Indonesian      id              Pekerjaan itu berhasil
+53   Irish           ga              Tá an post ag obair
+54   Italian         it              Il lavoro sta funzionando
+55   Japanese        ja              仕事はうまくいっている
+56   Javanese        jw              Pegaweyane nyambut gawe
+57   Kannada         kn              ಕೆಲಸ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ
+58   Kazakh          kk              Жұмыс істеп тұр
+59   Khmer           km              ការងារកំពុងដំណើរការ
+60   Kinyarwanda     rw              Akazi karakora
+61   Konkani         gom             काम काम करपाक लागलां
+62   Korean          ko              일이 일하고 있어요
+63   Krio            kri             Di wok de wok
+64   Kurdish (kurmanji) ku              Kar kar dike
+65   Kurdish (sorani) ckb             کارەکە کاردەکات
+66   Kyrgyz          ky              Жумуш иштеп жатат
+67   Lao             lo              ວຽກແມ່ນເຮັດວຽກ
+68   Latin           la              Officium laborat
+69   Latvian         lv              Darbs strādā
+70   Lingala         ln              Mosala ezali kosala
+71   Lithuanian      lt              Darbas veikia
+72   Luganda         lg              Omulimu gukola
+73   Luxembourgish   lb              D'Aarbecht funktionnéiert
+74   Macedonian      mk              Работата работи
+75   Maithili        mai             काज काज भ’ रहल अछि
+76   Malagasy        mg              Mandeha ny asa
+77   Malay           ms              Kerja sedang bekerja
+78   Malayalam       ml              ജോലി പ്രവർത്തിക്കുന്നു
+79   Maltese         mt              Ix-xogħol qed jaħdem
+80   Maori           mi              Kei te mahi te mahi
+81   Marathi         mr              नोकरी चालू आहे
+82   Meiteilon (manipuri) mni-Mtei        ꯊꯕꯛ ꯑꯁꯤ ꯊꯕꯛ ꯑꯣꯏꯅꯥ ꯄꯥꯡꯊꯣꯛꯂꯤ꯫
+83   Mizo            lus             Hna chu a thawk tha hle mai
+84   Mongolian       mn              Ажил нь явж байна
+85   Myanmar         my              အလုပ်က လုပ်နေတယ်။
+86   Nepali          ne              कामले काम गरिरहेको छ
+87   Norwegian       no              Jobben fungerer
+88   Odia (oriya)    or              କାମଟି କାମ କରୁଛି |
+89   Oromo           om              Hojiin hojjechaa jira
+90   Pashto          ps              کار په کار دی
+91   Persian         fa              کار داره کار میکنه
+92   Polish          pl              Praca działa
+93   Portuguese      pt              O trabalho está funcionando
+94   Punjabi         pa              ਨੌਕਰੀ ਕੰਮ ਕਰ ਰਹੀ ਹੈ
+95   Quechua         qu              Chay llamkayqa llamkachkanmi
+96   Romanian        ro              Lucrarea funcționează
+97   Russian         ru              Работа работает
+98   Samoan          sm              O lo'o galue le galuega
+99   Sanskrit        sa              कार्यं कार्यं करोति
+100  Scots gaelic    gd              Tha an obair ag obair
+101  Sepedi          nso             Mošomo o a šoma
+102  Serbian         sr              Посао ради
+103  Sesotho         st              Mosebetsi oa sebetsa
+104  Shona           sn              Basa riri kushanda
+105  Sindhi          sd              نوڪري ڪم ڪري رهي آهي
+106  Sinhala         si              වැඩේ වැඩ
+107  Slovak          sk              Práca funguje
+108  Slovenian       sl              Služba deluje
+109  Somali          so              Shaqadu waa shaqaynaysaa
+110  Spanish         es              el trabajo esta funcionando
+111  Sundanese       su              Pakasaban jalan
+112  Swahili         sw              Kazi inafanya kazi
+113  Swedish         sv              Jobbet fungerar
+114  Tajik           tg              Кор кор мекунад
+115  Tamil           ta              வேலை வேலை செய்கிறது
+116  Tatar           tt              Эш эшли
+117  Telugu          te              ఉద్యోగం పని చేస్తోంది
+118  Thai            th              งานกำลังทำงาน
+119  Tigrinya        ti              እቲ ስራሕ ይሰርሕ ኣሎ።
+120  Tsonga          ts              Ntirho wa tirha
+121  Turkish         tr              İş çalışıyor
+122  Turkmen         tk              Iş işleýär
+123  Twi             ak              Adwuma no reyɛ adwuma
+124  Ukrainian       uk              Робота працює
+125  Urdu            ur              کام کام کر رہا ہے۔
+126  Uyghur          ug              خىزمەت ئىشلەۋاتىدۇ
+127  Uzbek           uz              Ish ishlayapti
+128  Vietnamese      vi              Công việc đang hoạt động
+129  Welsh           cy              Mae'r swydd yn gweithio
+130  Xhosa           xh              Umsebenzi uyasebenza
+131  Yiddish         yi              די אַרבעט איז ארבעטן
+132  Yoruba          yo              Iṣẹ naa n ṣiṣẹ
+133  Zulu            zu              Umsebenzi uyasebenza
+Ok
